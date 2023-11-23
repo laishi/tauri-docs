@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+幻灯片位置 sidebar_position: 1
 ---
 
 # Introduction
